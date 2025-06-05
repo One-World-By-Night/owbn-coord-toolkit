@@ -2,11 +2,11 @@
 // File: tools/ccdb/render-admin.php
 // @version 0.1.1
 // @author greghacke
-// @tool ccdb
+// @tool binding-agreements
 
 defined( 'ABSPATH' ) || exit;
 
-function owbn_territory_render_admin_page() {
+function owbn_ba_render_admin_page() {
     $role = owbn_coord_toolkit_get_current_tool_role();
     ?>
     <div class="wrap">

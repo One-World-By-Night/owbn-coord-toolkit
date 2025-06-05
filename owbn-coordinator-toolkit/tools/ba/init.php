@@ -3,7 +3,7 @@
 // File: tools/_template/init.php
 // @version 0.1.1
 // @author greghacke
-// @tool territory
+// @tool binding-agreements
 
 defined( 'ABSPATH' ) || exit;
 

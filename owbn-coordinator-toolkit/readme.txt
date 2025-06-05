@@ -1,15 +1,15 @@
 === OWBN Coordinator Toolkit ===
 Contributors: greghacke
-Tags: owbn, coordinator, multisite, toolkit, modules, webhooks
+Tags: owbn, coordinator, multisite, toolkit, webhooks
 Requires at least: 6.0
-Tested up to: 6.5
+Tested up to: 6.8
 Requires PHP: 7.4
 Stable tag: 0.1.0
 Version: 0.1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-The OWBN Coordinator Toolkit is a modular, extensible WordPress plugin that provides shared coordinator functionality across all OWBN network sites, including council.owbn.net and archivist.owbn.net.
+Shared coordination tools across OWBN network sites like council.owbn.net and archivist.owbn.net.
 
 == Description ==
 
