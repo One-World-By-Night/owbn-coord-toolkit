@@ -18,7 +18,7 @@ The OWBN Coordinator Toolkit is not a monolithic system, but a structured plugin
 Each site using this plugin may selectively activate one or more tools based on its responsibilities. Sites are also responsible for identifying which tools they are the **master** of. For example:
 
 - `archivist.owbn.net` is master of the **CCDB** tool and serves authoritative content for it.
-- `council.owbn.net` may be the master for **modules**, while relying on the archivist site to retrieve and store finalized documents.
+- `council.owbn.net` may be the master for **modules** such as voting, while relying on the archivist site to retrieve and store finalized documents.
 
 The plugin includes the base bootstrapping logic, and each tool contains its own implementation logic, including:
 
